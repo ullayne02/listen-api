@@ -1,0 +1,4 @@
+const.py
+venv
+.ipynb_checkpoints/
+.cache
